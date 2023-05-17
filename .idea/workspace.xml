@@ -44,6 +44,11 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.30911332",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -87,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684344375816</updated>
-      <workItem from="1684344377022" duration="2201000" />
+      <workItem from="1684344377022" duration="2500000" />
     </task>
     <servers />
   </component>
